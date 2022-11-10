@@ -1,6 +1,6 @@
 # spotify-analysis
 Data Analysis using python on music related data sets.
-In this project,I analyzed,visualized, and drawn insights with python libraries and functions
+In this project,I analyzed,visualized, and drawn insights with python libraries and functions.
 Data Links:-
 https://www.kaggle.com/zaheenhamidani...
 https://www.kaggle.com/lehaknarnauli/...
